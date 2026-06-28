@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1b0014/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部二
+  hash: sha256:0cc932f81e16f40609470aaa0474e8369dec60a220254d8de2f21651552b055d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1b0014_WYG_000-1a, image: WYG0057/WYG0057-0467a.png}
+body:
+  text: 尚書說書類提要臣等謹案尚書說七卷宋黃度撰度字文叔新昌人登紹興進士為御史劾韓侘胄寧宗時纍官禮部尚書龍圖閣學士卒諡宣獻度篤學窮經老而不倦于易詩周禮俱有撰述是編其尤著者也陳振孫稱度晚年制閫江淮著述不輟時得新意往往晨夜叩書孰為友朋道之可見其學之勤矣平日與朱子葉適陳傅良等相善周禮詩說皆為適所稱許是編雖但因孔傳而發明之然指論三代興衰治亂之迹與推明執中建極等旨皆深得理要非徒治章句之學者也乾隆四十五年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:384daeb0a5e8a6a26cb6823f0b09f1c0b51d696da185262ed0e150c4e8dcfaa2
+metadata:
+  title: 尚書說
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:01:58.861166'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1b0014/KR1b0014_000.txt
+hash: sha256:d7ebfba681e2e7ddb87d2b465291bacc5ac111ada35dcfb43c3650f009392cf4
